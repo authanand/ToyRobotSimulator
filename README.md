@@ -1,2 +1,2 @@
 # ToyRobotSimulator
-The application is simulation of toy robot moving on a square table top
+This application is a simulation of toy robot moving on square table top
